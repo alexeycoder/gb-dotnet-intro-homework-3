@@ -12,7 +12,9 @@
 
 *Примеры:*
 
+![task19-example-1](https://user-images.githubusercontent.com/109767480/184473185-02bef659-e5f8-4f7b-ad44-8691e7d70f2e.png)
 
+![task19-example-2](https://user-images.githubusercontent.com/109767480/184473192-8a1ef5f8-fcc9-4610-9a1a-b83c25c7455a.png)
 
 ### Задача 21
 
@@ -23,7 +25,11 @@
 
 *Примеры:*
 
+![task21-example-1](https://user-images.githubusercontent.com/109767480/184473200-6148cb81-1547-44bf-8452-85c26ecabf8c.png)
 
+![task21-example-2](https://user-images.githubusercontent.com/109767480/184473203-db4d5293-148c-42eb-bcc6-fd81d314020a.png)
+
+![task21-example-3](https://user-images.githubusercontent.com/109767480/184473208-b2e0b33b-2fb0-43ca-953e-0e1e7e430ece.png)
 
 ### Задача 23
 
@@ -34,4 +40,4 @@
 
 *Пример:*
 
-
+![task23-example](https://user-images.githubusercontent.com/109767480/184473212-d5a79fd4-5c7c-487b-9fee-a520fd10f9ca.png)
